@@ -75,6 +75,47 @@ button:focus {
 /* --------- */
 /* Navbar Section  */
 /* --------- */
+/* Style global de la navbar */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  background-color: #282c34;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-logo {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #be50f4;
+  text-transform: capitalize;
+  transition: color 0.3s, transform 0.3s;
+}
+
+.navbar-logo:hover {
+  color: #ffffff;
+  transform: scale(1.1);
+  cursor: pointer;
+}
+
+.navbar-logo:active {
+  animation: pulse 0.8s infinite;
+}
+
+@keyframes pulse {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.2);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+
 .sticky {
   background-color: #1b1a2ea9 !important;
   transition: all 0.3s ease-out 0s !important;
