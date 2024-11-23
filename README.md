@@ -1,6 +1,6 @@
 <h2 align="center">
-  Portfolio Website - v2.0<br/>
-  <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a>
+  Portfolio Personnel - Version 2.0<br/>
+  <a href="https://portfolio-12-zeta.vercel.app/" target="_blank">farah.tech</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
@@ -8,51 +8,58 @@
 
 <br/>
 
-<center>
+<div align="center">
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/farahbed/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
+![GitHub forks](https://img.shields.io/github/forks/farahbed/Portfolio?color=red&logo=github&style=for-the-badge)
 
-</center>
+</div>
 
-<h3 align="center">
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Request Feature</a>
-</h3>
+---
 
-## TL;DR
+## 🎯 Objectif
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks!
+Bienvenue sur la version 2.0 de mon portfolio personnel, [farah.tech](https://portfolio-12-zeta.vercel.app/).  
+Ce portfolio met en avant mes projets GitHub, mes compétences techniques ainsi que mon parcours professionnel.  
+C'est également une démonstration de mes compétences en développement front-end.
 
-## Built With
+---
 
-My personal portfolio <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+## 🛠 Technologies utilisées
 
-This project was built using these technologies.
+Ce projet a été réalisé avec les technologies suivantes :
 
-- React.js
-- Node.js
-- Express.js
-- CSS3
-- VsCode
-- Vercel
+- **React.js** pour la structure front-end dynamique.
+- **Node.js** et **Express.js** pour le back-end.
+- **CSS3** et **React-Bootstrap** pour le design et la personnalisation.
+- **VSCode** comme éditeur principal.
+- **Vercel** pour le déploiement et l'hébergement.
 
-## Features
+---
 
-**📖 Multi-Page Layout**
+## 🚀 Fonctionnalités
 
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
+- **📖 Interface multi-pages** : Navigation fluide entre les différentes sections.
+- **🎨 Design moderne** : Entièrement personnalisable avec React-Bootstrap et CSS3.
+- **📱 Responsive** : Adapté aux écrans de toutes tailles, y compris les mobiles.
 
-**📱 Fully Responsive**
+---
 
-## Getting Started
+## ⚡ Installation et démarrage
 
-Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
+### Prérequis
+Avant de commencer, assurez-vous d'avoir installé :
+- [Node.js](https://nodejs.org)
+- [Git](https://git-scm.com)
+
+### Étapes
+1. Clonez ce dépôt :
+   ```bash
+   git clone https://github.com/farahbed/Portfolio.git
+
 
 ## 🛠 Installation and Setup Instructions
 
