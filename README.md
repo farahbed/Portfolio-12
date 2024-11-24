@@ -3,7 +3,7 @@
   <a href="https://portfolio-12-zeta.vercel.app/" target="_blank">farah.tech</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
+  <img alt="Demo" src="./Images/readme-img2.png" />
 </div>
 
 <br/>
@@ -22,7 +22,8 @@
 
 ## 🎯 Objectif
 
-Bienvenue sur la version 2.0 de mon portfolio personnel, [farah.tech](https://portfolio-12-zeta.vercel.app/).  
+Bienvenue sur la version 2.0 de mon portfolio personnel, [farah.tech](myportfoliofarah.vercel.app
+).  
 Ce portfolio met en avant mes projets GitHub, mes compétences techniques ainsi que mon parcours professionnel.  
 C'est également une démonstration de mes compétences en développement front-end.
 
